@@ -1,0 +1,18 @@
+body{
+    margin: auto;
+    padding: 0;
+    width: 80%;
+}
+
+#content{
+    width: 80%;
+    float: left;
+    height: 100vh;
+}
+
+#siderbar{
+    width: 19%;
+    float: left;
+    background: #eee;
+    height: 100vh;
+}
